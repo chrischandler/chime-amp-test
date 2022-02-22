@@ -6,7 +6,7 @@ type Meeting
     }
     subscriptions: null
   )
-  @index(fields: ["title"]) {
+  @key(fields: ["title"]) {
   meetingId: String!
   title: String!
   data: String!
@@ -20,7 +20,7 @@ type Attendee
     }
     subscriptions: null
   )
-  @index(fields: ["attendeeId"]) {
+  @key(fields: ["attendeeId"]) {
   attendeeId: String!
   name: String!
 }
