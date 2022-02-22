@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chimeamptest-dev-205704-authRole",
+      "UnauthRoleArn": "arn:aws:iam::218461940103:role/amplify-chimeamptest-dev-205704-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::218461940103:role/amplify-chimeamptest-dev-205704-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-chimeamptest-dev-205704-deployment",
+      "UnauthRoleName": "amplify-chimeamptest-dev-205704-unauthRole",
+      "StackName": "amplify-chimeamptest-dev-205704",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:218461940103:stack/amplify-chimeamptest-dev-205704/c756e600-9315-11ec-b3ec-0a45405deaf8",
+      "AmplifyAppId": "dqbpnxexjop3n"
+    }
+  }
+}
